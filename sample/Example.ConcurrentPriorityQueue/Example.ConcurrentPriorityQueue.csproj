@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <OutputType>Library</OutputType>
+        <PackageId>Example.ConcurrentPriorityQueue</PackageId>
+        <LangVersion>11</LangVersion>
+        
+    </PropertyGroup>
+    
+</Project>
