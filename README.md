@@ -14,3 +14,5 @@ __Just use doxygen!__
     2) Or copy the __Documentation__ folder to the root and then back to the folder you would wish to have the documentation
 
 4) __Open the Documentation folder with your browser and open index.html__
+
+_PS : Building the image on the first run will take approx 10 mins_
